@@ -1,5 +1,5 @@
 # Description: Given a string, swap the lower case letters to upper case and
-# swap the upper case letters to lower case.
+#  swap the upper case letters to lower case.
 # Sample Input : HackerRank.com presents "Pythonist 2".
 # Sample Output : hACKERrANK.COM PRESENTS "pYTHONIST 2".
 
